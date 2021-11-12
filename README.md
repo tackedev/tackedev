@@ -28,5 +28,5 @@ My name is Le Quang Ky. Thank You for taking the time to view my GitHub Profile 
 ### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
 
 [![](https://img.shields.io/badge/Email-quangky.it@gmail.com-blue?style=flat-square&logo=gmail)](mailto:quangky.it@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lê-quang-kỳ-32b1b5226)
+[![](https://img.shields.io/badge/LinkedIn-linkedin.com/in/tackedev-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tackedev/)
 
